@@ -1,4 +1,4 @@
-# Files, source code and backup for the <a href="https://ecolibrium.eu.pn" target="_blank">A.L.I.C.E</a> 
+# Files, source code and backup for <a href="https://ecolibrium.eu.pn" target="_blank">A.L.I.C.E</a> 
 
 In nature, microorganisms live together and cooperate to accomplish complex tasks. As synthetic biology advances, we will inevitably transition from unicellular systems to engineering at the multicellular level. A major obstacle, however, is ensuring stable coexistence of different cell types in co-culture. To overcome this obstacle, a team of undergraduate students from Imperial College London's iGEM 2016 team created <a href="http://2016.igem.org/Team:Imperial_College" target="_blank">Ecolibrium</a>, a project which aimed to develop a Genetically Engineered Artificial Ratio (GEAR) system to control population ratios in microbial consortia.
 
